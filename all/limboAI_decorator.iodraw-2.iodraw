@@ -1,0 +1,79 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="996" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="31co3WnpU87vHXXzYG0Q-0" value="bt_decorator" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="270" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-1" value="bt_always_fail" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
+          <mxGeometry x="220" y="110" width="140" height="30" as="geometry">
+            <mxRectangle x="220" y="110" width="200" height="420" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-2" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-1" vertex="1">
+          <mxGeometry y="30" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-3" value="添加往这托载" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-2" vertex="1">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-4" value="bt_always_fail定义" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-2" vertex="1">
+          <mxGeometry y="60" width="200" height="130" as="geometry">
+            <mxRectangle y="60" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-5" value="1. 继承bt_decorator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-4" vertex="1">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-6" value="2.作用：保证节点始终为failture" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-4" vertex="1">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-7" value="3. running时返回running，其余返回failture" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-4" vertex="1">
+          <mxGeometry y="90" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-8" value="属性表" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="31co3WnpU87vHXXzYG0Q-2" vertex="1">
+          <mxGeometry y="190" width="200" height="200" as="geometry">
+            <mxRectangle y="190" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-9" value="1.继承bt_decorator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-8" vertex="1">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-10" value="bt_always_succeed" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
+          <mxGeometry x="220" y="150" width="140" height="30" as="geometry">
+            <mxRectangle x="440" y="90" width="200" height="420" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-11" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-10" vertex="1">
+          <mxGeometry y="30" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-12" value="添加往这托载" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-11" vertex="1">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-13" value="bt_always_succeed定义" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-11" vertex="1">
+          <mxGeometry y="60" width="200" height="130" as="geometry">
+            <mxRectangle y="60" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-14" value="1. 继承bt_decorator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-13" vertex="1">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-15" value="2. 作用：保证节点始终为success" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-13" vertex="1">
+          <mxGeometry y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-16" value="3. running时返回running，其余返回success" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-13" vertex="1">
+          <mxGeometry y="90" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-17" value="属性表" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="31co3WnpU87vHXXzYG0Q-11" vertex="1">
+          <mxGeometry y="190" width="200" height="200" as="geometry">
+            <mxRectangle y="190" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31co3WnpU87vHXXzYG0Q-18" value="1.继承bt_decorator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="31co3WnpU87vHXXzYG0Q-17" vertex="1">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
