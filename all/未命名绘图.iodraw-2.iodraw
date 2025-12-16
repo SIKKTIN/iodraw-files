@@ -9,7 +9,7 @@
             <mxPoint x="185" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4aWxS8CVfpZyfXkqx8Se-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.543;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-25">
+        <mxCell id="4aWxS8CVfpZyfXkqx8Se-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-25" target="4aWxS8CVfpZyfXkqx8Se-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="756.02" y="279.64" as="targetPoint" />
           </mxGeometry>
@@ -42,7 +42,7 @@
           <mxGeometry y="200" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-32" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="310" width="200" height="200" as="geometry" />
+          <mxGeometry x="660" y="230" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
