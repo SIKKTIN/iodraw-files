@@ -48,8 +48,8 @@
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-9" value="功能：&lt;div&gt;1.动态变换&lt;div&gt;2.组件初始化(手动保存)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3.工具初始化(手动保存)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;html=1;whiteSpace=wrap;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-25">
           <mxGeometry y="90" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4aWxS8CVfpZyfXkqx8Se-29" value="生命周期：&lt;div&gt;1.&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-25">
-          <mxGeometry y="160" width="240" height="30" as="geometry" />
+        <mxCell id="4aWxS8CVfpZyfXkqx8Se-29" value="生命周期：&lt;div&gt;1.ready里对组件进行初始化&lt;/div&gt;&lt;div&gt;2.加载数据并使用&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-25">
+          <mxGeometry y="160" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
