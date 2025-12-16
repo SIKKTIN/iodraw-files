@@ -53,6 +53,9 @@
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-35" value="功能：&lt;span style=&quot;background-color: initial;&quot;&gt;数据存储&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;html=1;whiteSpace=wrap;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-32">
           <mxGeometry y="95" width="310" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4aWxS8CVfpZyfXkqx8Se-36" value="功能：&lt;span style=&quot;background-color: initial;&quot;&gt;数据存储&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;html=1;whiteSpace=wrap;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-32">
+          <mxGeometry y="135" width="310" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
