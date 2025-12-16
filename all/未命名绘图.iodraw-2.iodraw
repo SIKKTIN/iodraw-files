@@ -42,7 +42,7 @@
           <mxGeometry y="200" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-32" value="I_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="230" width="310" height="200" as="geometry" />
+          <mxGeometry x="660" y="230" width="310" height="240" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-33" value="定义：组件节点基类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-32">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -53,8 +53,8 @@
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-35" value="功能：&lt;span style=&quot;background-color: initial;&quot;&gt;数据存储&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;html=1;whiteSpace=wrap;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-32">
           <mxGeometry y="95" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4aWxS8CVfpZyfXkqx8Se-36" value="功能：&lt;span style=&quot;background-color: initial;&quot;&gt;数据存储&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;html=1;whiteSpace=wrap;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-32">
-          <mxGeometry y="135" width="310" height="40" as="geometry" />
+        <mxCell id="4aWxS8CVfpZyfXkqx8Se-36" value="函数接口:&lt;div&gt;1_data_init : 数据组件初始化(由I_Tool_Node调用)&lt;/div&gt;&lt;div&gt;2._parse_extra_data_map(数据信息解析)&lt;/div&gt;&lt;div&gt;3._dynamic_change(数据包使用)&lt;/div&gt;&lt;div&gt;4._import_data(数据包导入)&lt;/div&gt;&lt;div&gt;5.&amp;nbsp;_export_data(数据包注册)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;html=1;whiteSpace=wrap;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-32">
+          <mxGeometry y="136" width="310" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
