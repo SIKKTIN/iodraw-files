@@ -41,8 +41,11 @@
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-29" value="生命周期：&lt;div&gt;1.ready里对组件进行初始化&lt;/div&gt;&lt;div&gt;2.加载数据并使用(动态变换)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-25">
           <mxGeometry y="200" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4aWxS8CVfpZyfXkqx8Se-32" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4aWxS8CVfpZyfXkqx8Se-32" value="I_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="230" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4aWxS8CVfpZyfXkqx8Se-33" value="定义：基类节点" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
