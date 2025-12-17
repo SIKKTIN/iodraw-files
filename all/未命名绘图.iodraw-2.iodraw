@@ -28,8 +28,8 @@
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-16" value="基础功能: 注册绑定I_Tool_Node父节点" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4aWxS8CVfpZyfXkqx8Se-23" vertex="1">
           <mxGeometry y="55" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4aWxS8CVfpZyfXkqx8Se-25" value="q" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1670" y="740" width="470" height="360" as="geometry" />
+        <mxCell id="4aWxS8CVfpZyfXkqx8Se-25" value="I_Tool_Node" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="670" width="470" height="360" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-7" value="定义：管理节点基类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4aWxS8CVfpZyfXkqx8Se-25" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
