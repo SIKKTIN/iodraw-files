@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="eafEd0Y_nmuKPU_eYYiG">
-    <mxGraphModel dx="797" dy="2452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="2702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,13 +62,13 @@
           <mxGeometry y="171" width="520" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-37" value="数据包I_Tool_Basic_Data" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="560" width="360" height="200" as="geometry" />
+          <mxGeometry x="1100" y="560" width="520" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-4" value="定义：作为数据包，存储组件数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-37">
           <mxGeometry y="30" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-23" value="属性：&lt;div&gt;1.position, rotation, scale 作为基础属性&lt;/div&gt;&lt;div&gt;2.&lt;span style=&quot;background-color: initial;&quot;&gt;extra_data 额外自定义信息(最后由&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_parse_extra_data_map解析成一个dictionary表进行存储&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-37">
-          <mxGeometry y="70" width="310" height="120" as="geometry" />
+          <mxGeometry y="70" width="510" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW0quZWVjEaQcoJ7DFYx-1" target="4aWxS8CVfpZyfXkqx8Se-37">
           <mxGeometry relative="1" as="geometry" />
