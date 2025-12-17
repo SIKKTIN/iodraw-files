@@ -27,7 +27,7 @@
           <mxGeometry y="55" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-25" value="I_Tool_Node" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="10" width="310" height="280" as="geometry" />
+          <mxGeometry x="300" y="10" width="470" height="360" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-7" value="定义：管理节点基类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4aWxS8CVfpZyfXkqx8Se-25" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -38,8 +38,8 @@
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-9" value="功能：&lt;div&gt;1.动态变换&lt;div&gt;2.组件(I_Tool_Component)初始化(手动保存)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3.工具(I_Tool)初始化(手动保存)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;html=1;whiteSpace=wrap;" parent="4aWxS8CVfpZyfXkqx8Se-25" vertex="1">
           <mxGeometry y="90" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="4aWxS8CVfpZyfXkqx8Se-29" value="生命周期：&lt;div&gt;1.ready里对组件进行初始化&lt;/div&gt;&lt;div&gt;2.加载数据并使用(动态变换)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4aWxS8CVfpZyfXkqx8Se-25" vertex="1">
-          <mxGeometry y="200" width="310" height="60" as="geometry" />
+        <mxCell id="4aWxS8CVfpZyfXkqx8Se-29" value="初始化生命周期：&lt;div&gt;1.valid_check : 检测组件表是否合法&lt;/div&gt;&lt;div&gt;2.load_data : 数据加载（从缓存路径表找, 找到则将数据一一对应赋值给组件表)&lt;/div&gt;&lt;div&gt;2.加载数据并使用(动态变换)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4aWxS8CVfpZyfXkqx8Se-25" vertex="1">
+          <mxGeometry y="200" width="310" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-32" value="I_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="310" width="530" height="290" as="geometry" />
