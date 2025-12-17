@@ -121,7 +121,7 @@
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-27" value="定义: 动画管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-25">
           <mxGeometry y="25" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-29" value="Trigger_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-29" value="Area_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3140" y="960" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-30" value="定义: 触发器管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-29">
