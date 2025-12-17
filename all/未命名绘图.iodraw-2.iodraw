@@ -82,6 +82,30 @@
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-29" target="FW0quZWVjEaQcoJ7DFYx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-13" value="I_Tool" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-330" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-14" value="生命周期：由I_Tool_Node管理" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-13">
+          <mxGeometry y="85" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-15" value="定义: 工具基类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-13">
+          <mxGeometry y="25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-16" value="基础功能: 注册绑定I_Tool_Node父节点" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-13">
+          <mxGeometry y="55" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-17" value="I_Tool" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-110" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-18" value="生命周期：由I_Tool_Node管理" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-17">
+          <mxGeometry y="85" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-19" value="定义: 工具基类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-17">
+          <mxGeometry y="25" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-20" value="基础功能: 注册绑定I_Tool_Node父节点" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-17">
+          <mxGeometry y="55" width="250" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
