@@ -71,6 +71,9 @@
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-3" value="属性：&lt;div&gt;1.id_name&amp;nbsp; :&amp;nbsp; 文件唯一名称&lt;/div&gt;&lt;div&gt;2.data_map ： 数据包表Dictionary[String, I_Tool_Basic_Data]&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-1">
           <mxGeometry y="60" width="360" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-29" target="FW0quZWVjEaQcoJ7DFYx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
