@@ -115,7 +115,7 @@
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-16" target="FW0quZWVjEaQcoJ7DFYx-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-25" value="I_Tool_Changer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-25" value="Animation_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3140" y="820" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-27" value="定义: 修改工具" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-25">
