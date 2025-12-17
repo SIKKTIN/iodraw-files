@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="eafEd0Y_nmuKPU_eYYiG">
-    <mxGraphModel dx="460" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2784" dy="2660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,16 +43,16 @@
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-29" value="初始化生命周期：&lt;div&gt;1.valid_check : 检测组件表是否合法&lt;/div&gt;&lt;div&gt;2.load_data : 数据加载&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;(1) 从缓存路径表找, 找到则将数据一一对应赋值给组件表&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;(2) 没有找到则缓存当前状态的数据并使用&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.init_comp : 组件初始化 (拿到数据后开始使用)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4aWxS8CVfpZyfXkqx8Se-25" vertex="1">
           <mxGeometry y="200" width="460" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-32" target="4aWxS8CVfpZyfXkqx8Se-37">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4aWxS8CVfpZyfXkqx8Se-32" target="4aWxS8CVfpZyfXkqx8Se-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-32" target="FW0quZWVjEaQcoJ7DFYx-29">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4aWxS8CVfpZyfXkqx8Se-32" target="FW0quZWVjEaQcoJ7DFYx-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-32" target="FW0quZWVjEaQcoJ7DFYx-25">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4aWxS8CVfpZyfXkqx8Se-32" target="FW0quZWVjEaQcoJ7DFYx-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-32" target="FW0quZWVjEaQcoJ7DFYx-31">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4aWxS8CVfpZyfXkqx8Se-32" target="FW0quZWVjEaQcoJ7DFYx-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-32" value="I_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -73,73 +73,73 @@
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-37" value="数据包I_Tool_Basic_Data" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2470" y="1290" width="520" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-4" value="定义：作为数据包，存储组件数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-37">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-4" value="定义：作为数据包，存储组件数据" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4aWxS8CVfpZyfXkqx8Se-37" vertex="1">
           <mxGeometry y="30" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-23" value="属性：&lt;div&gt;1.position, rotation, scale 作为基础属性&lt;/div&gt;&lt;div&gt;2.&lt;span style=&quot;background-color: initial;&quot;&gt;extra_data 额外自定义信息(最后由&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_parse_extra_data_map解析成一个dictionary表进行存储&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4aWxS8CVfpZyfXkqx8Se-37">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-23" value="属性：&lt;div&gt;1.position, rotation, scale 作为基础属性&lt;/div&gt;&lt;div&gt;2.&lt;span style=&quot;background-color: initial;&quot;&gt;extra_data 额外自定义信息(最后由&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_parse_extra_data_map解析成一个dictionary表进行存储&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4aWxS8CVfpZyfXkqx8Se-37" vertex="1">
           <mxGeometry y="70" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FW0quZWVjEaQcoJ7DFYx-1" target="4aWxS8CVfpZyfXkqx8Se-37">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FW0quZWVjEaQcoJ7DFYx-1" target="4aWxS8CVfpZyfXkqx8Se-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-1" value="数据表I_Tool_Basic_Data" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-1" value="数据表I_Tool_Basic_Data" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1870" y="1180" width="350" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-2" value="定义：作为数据总表，存储数据包" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-2" value="定义：作为数据总表，存储数据包" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-1" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-3" value="属性：&lt;div&gt;1.id_name&amp;nbsp; :&amp;nbsp; 文件唯一名称&lt;/div&gt;&lt;div&gt;2.data_map ： 数据包表Dictionary[String, I_Tool_Basic_Data]&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-3" value="属性：&lt;div&gt;1.id_name&amp;nbsp; :&amp;nbsp; 文件唯一名称&lt;/div&gt;&lt;div&gt;2.data_map ： 数据包表Dictionary[String, I_Tool_Basic_Data]&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-1" vertex="1">
           <mxGeometry y="60" width="360" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-29" target="FW0quZWVjEaQcoJ7DFYx-1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4aWxS8CVfpZyfXkqx8Se-29" target="FW0quZWVjEaQcoJ7DFYx-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-13" value="I_Tool_Saver" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-13" value="I_Tool_Saver" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2840" y="400" width="250" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-14" value="生命周期：由I_Tool_Node管理" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-13">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-14" value="生命周期：由I_Tool_Node管理" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-13" vertex="1">
           <mxGeometry y="85" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-15" value="定义: 保存工具" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-13">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-15" value="定义: 保存工具" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-13" vertex="1">
           <mxGeometry y="25" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-16" value="基础功能: 注册绑定I_Tool_Node父节点" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-13">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-16" value="基础功能: 注册绑定I_Tool_Node父节点" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-13" vertex="1">
           <mxGeometry y="55" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-17" value="I_Tool_Changer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-17" value="I_Tool_Changer" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2840" y="620" width="250" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-18" value="生命周期：由I_Tool_Node管理" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-17">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-18" value="生命周期：由I_Tool_Node管理" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-17" vertex="1">
           <mxGeometry y="85" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-19" value="定义: 修改工具" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-17">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-19" value="定义: 修改工具" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-17" vertex="1">
           <mxGeometry y="25" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-20" value="基础功能: 注册绑定I_Tool_Node父节点" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-17">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-20" value="基础功能: 注册绑定I_Tool_Node父节点" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-17" vertex="1">
           <mxGeometry y="55" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-16" target="FW0quZWVjEaQcoJ7DFYx-14">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4aWxS8CVfpZyfXkqx8Se-16" target="FW0quZWVjEaQcoJ7DFYx-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4aWxS8CVfpZyfXkqx8Se-16" target="FW0quZWVjEaQcoJ7DFYx-18">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4aWxS8CVfpZyfXkqx8Se-16" target="FW0quZWVjEaQcoJ7DFYx-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-25" value="Animation_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-25" value="Animation_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3270" y="810" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-27" value="定义: 动画管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-25">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-27" value="定义: 动画管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-25" vertex="1">
           <mxGeometry y="25" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-29" value="Area_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-29" value="Area_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3270" y="950" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-30" value="定义: 触发器管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-29">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-30" value="定义: 触发器管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-29" vertex="1">
           <mxGeometry y="25" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-31" value="HixBox_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-31" value="HixBox_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3270" y="1090" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-32" value="定义: 受击触发器管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-31">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-32" value="定义: 受击触发器管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="FW0quZWVjEaQcoJ7DFYx-31" vertex="1">
           <mxGeometry y="25" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
