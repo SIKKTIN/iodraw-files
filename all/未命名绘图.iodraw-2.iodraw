@@ -10,7 +10,7 @@
             <mxPoint x="240" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4aWxS8CVfpZyfXkqx8Se-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="4aWxS8CVfpZyfXkqx8Se-32" edge="1">
+        <mxCell id="4aWxS8CVfpZyfXkqx8Se-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="4aWxS8CVfpZyfXkqx8Se-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="756.02" y="279.64" as="targetPoint" />
             <mxPoint x="910" y="100" as="sourcePoint" />
@@ -44,7 +44,7 @@
           <mxGeometry y="200" width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-32" value="I_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="390" width="530" height="290" as="geometry" />
+          <mxGeometry x="830" y="390" width="530" height="290" as="geometry" />
         </mxCell>
         <mxCell id="4aWxS8CVfpZyfXkqx8Se-33" value="定义：组件节点基类" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4aWxS8CVfpZyfXkqx8Se-32" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
