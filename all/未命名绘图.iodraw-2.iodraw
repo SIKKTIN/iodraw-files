@@ -127,7 +127,7 @@
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-30" value="定义: 触发器管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-29">
           <mxGeometry y="25" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-31" value="StaticBody_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-31" value="HixBox_Tool_Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3140" y="1100" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-32" value="定义: 触发器管理组件" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-31">
