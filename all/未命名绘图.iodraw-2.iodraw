@@ -65,8 +65,8 @@
         <mxCell id="FW0quZWVjEaQcoJ7DFYx-2" value="定义：作为数据总表，存储数据包" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FW0quZWVjEaQcoJ7DFYx-3" value="定义：id_name&amp;nbsp; :&amp;nbsp; 文件唯一名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-1">
-          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        <mxCell id="FW0quZWVjEaQcoJ7DFYx-3" value="属性：&lt;div&gt;1.id_name&amp;nbsp; :&amp;nbsp; 文件唯一名称&lt;/div&gt;&lt;div&gt;2.data_map ： 数据包表&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="FW0quZWVjEaQcoJ7DFYx-1">
+          <mxGeometry y="60" width="240" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
