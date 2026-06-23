@@ -19,8 +19,8 @@
         <mxCell id="HYnrChQL18M0OPatCSS6-6" value="UGCWidgetManagerSystem" style="rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="540" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HYnrChQL18M0OPatCSS6-9" value="UGCWidgetManagerSystem" style="rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="550" width="160" height="70" as="geometry" />
+        <mxCell id="HYnrChQL18M0OPatCSS6-9" value="KismetSystemLibrary" style="rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="630" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
