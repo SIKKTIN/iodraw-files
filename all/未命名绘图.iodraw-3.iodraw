@@ -4,23 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HYnrChQL18M0OPatCSS6-1" value="UIManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYnrChQL18M0OPatCSS6-1" value="UIManager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYnrChQL18M0OPatCSS6-3" value="UGCEventSystem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYnrChQL18M0OPatCSS6-3" value="UGCEventSystem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="440" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HYnrChQL18M0OPatCSS6-4" value="EEventDefine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYnrChQL18M0OPatCSS6-4" value="EEventDefine" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYnrChQL18M0OPatCSS6-5" value="WBP_CountDown（倒计时）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HYnrChQL18M0OPatCSS6-5" value="WBP_CountDown（倒计时）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HYnrChQL18M0OPatCSS6-6" value="UGCWidgetManagerSystem" style="rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="540" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="HYnrChQL18M0OPatCSS6-9" value="KismetSystemLibrary" style="rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="630" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
