@@ -16,8 +16,8 @@
         <mxCell id="oUBP51wU5k_3Q8WvnpNO-1" value="全局类" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="170" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="HYnrChQL18M0OPatCSS6-3" value="UGCEventSystem" style="rounded=0;whiteSpace=wrap;html=1;" parent="oUBP51wU5k_3Q8WvnpNO-1" vertex="1">
-          <mxGeometry y="20" width="200" height="70" as="geometry" />
+        <mxCell id="HYnrChQL18M0OPatCSS6-3" value="UGCEventSystem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="390" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
