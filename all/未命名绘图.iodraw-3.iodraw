@@ -5,13 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HYnrChQL18M0OPatCSS6-1" value="UIManager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HYnrChQL18M0OPatCSS6-4" value="EEventDefine" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYnrChQL18M0OPatCSS6-5" value="WBP_CountDown（倒计时）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oUBP51wU5k_3Q8WvnpNO-1" value="全局类" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="310" width="200" height="200" as="geometry" />
@@ -25,10 +22,10 @@
         <mxCell id="oUBP51wU5k_3Q8WvnpNO-10" value="EventType(事件枚举)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="280" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oUBP51wU5k_3Q8WvnpNO-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oUBP51wU5k_3Q8WvnpNO-10">
+        <mxCell id="oUBP51wU5k_3Q8WvnpNO-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oUBP51wU5k_3Q8WvnpNO-10" target="HYnrChQL18M0OPatCSS6-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="300" as="sourcePoint" />
-            <mxPoint x="250" y="250" as="targetPoint" />
+            <mxPoint x="260" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
