@@ -23,7 +23,13 @@
           <mxGeometry y="70" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oUBP51wU5k_3Q8WvnpNO-10" value="EventType(事件枚举)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oUBP51wU5k_3Q8WvnpNO-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oUBP51wU5k_3Q8WvnpNO-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="300" as="sourcePoint" />
+            <mxPoint x="250" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
