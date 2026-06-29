@@ -34,7 +34,7 @@
         <mxCell id="oUBP51wU5k_3Q8WvnpNO-17" value="Mgr_TeleportManager(传送功能管理器)" style="rounded=0;whiteSpace=wrap;html=1;" parent="oUBP51wU5k_3Q8WvnpNO-16" vertex="1">
           <mxGeometry y="30" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UwWceAzRCiZa8L4Tt4z4-1" value="Mgr_TeleportManager(传送功能管理器)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oUBP51wU5k_3Q8WvnpNO-16">
+        <mxCell id="UwWceAzRCiZa8L4Tt4z4-1" value="Mgr_ConfigManager(配置数据管理器)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oUBP51wU5k_3Q8WvnpNO-16">
           <mxGeometry y="70" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
