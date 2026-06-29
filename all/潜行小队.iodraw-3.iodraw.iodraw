@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HYnrChQL18M0OPatCSS6-1" value="UIManager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HYnrChQL18M0OPatCSS6-5" value="WBP_CountDown（倒计时）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="oUBP51wU5k_3Q8WvnpNO-1" value="全局类" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="310" width="200" height="200" as="geometry" />
         </mxCell>
@@ -29,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oUBP51wU5k_3Q8WvnpNO-16" value="Manager系统" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="520" y="500" width="270" height="200" as="geometry" />
+          <mxGeometry x="560" y="470" width="270" height="200" as="geometry" />
         </mxCell>
         <mxCell id="oUBP51wU5k_3Q8WvnpNO-17" value="Mgr_TeleportManager(传送功能管理器)" style="rounded=0;whiteSpace=wrap;html=1;" parent="oUBP51wU5k_3Q8WvnpNO-16" vertex="1">
           <mxGeometry y="30" width="270" height="40" as="geometry" />
